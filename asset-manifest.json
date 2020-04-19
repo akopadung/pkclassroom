@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pkclassroom/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pkclassroom/static/js/main.b00ff0a8.chunk.js",
-    "main.js.map": "/pkclassroom/static/js/main.b00ff0a8.chunk.js.map",
+    "main.js": "/pkclassroom/static/js/main.2afb04ba.chunk.js",
+    "main.js.map": "/pkclassroom/static/js/main.2afb04ba.chunk.js.map",
     "runtime-main.js": "/pkclassroom/static/js/runtime-main.51a24ae9.js",
     "runtime-main.js.map": "/pkclassroom/static/js/runtime-main.51a24ae9.js.map",
     "static/js/2.2586d066.chunk.js": "/pkclassroom/static/js/2.2586d066.chunk.js",
     "static/js/2.2586d066.chunk.js.map": "/pkclassroom/static/js/2.2586d066.chunk.js.map",
     "index.html": "/pkclassroom/index.html",
-    "precache-manifest.18c6328ead94aae563e53442b9f2e907.js": "/pkclassroom/precache-manifest.18c6328ead94aae563e53442b9f2e907.js",
+    "precache-manifest.f2adecbfd10f017c187d8a7ad1f97467.js": "/pkclassroom/precache-manifest.f2adecbfd10f017c187d8a7ad1f97467.js",
     "service-worker.js": "/pkclassroom/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/pkclassroom/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.2586d066.chunk.js.LICENSE.txt": "/pkclassroom/static/js/2.2586d066.chunk.js.LICENSE.txt",
@@ -59,6 +59,6 @@
     "static/js/runtime-main.51a24ae9.js",
     "static/js/2.2586d066.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b00ff0a8.chunk.js"
+    "static/js/main.2afb04ba.chunk.js"
   ]
 }
