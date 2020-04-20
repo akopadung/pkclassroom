@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ba2838358097e921fca39b652e9f016",
+    "revision": "2ef6e20702f7857005aa3877f7c84ff7",
     "url": "/pkclassroom/index.html"
   },
   {
-    "revision": "f97d3057ed336cde414a",
+    "revision": "b9bbcf855811f56e5606",
     "url": "/pkclassroom/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pkclassroom/static/js/2.19b23279.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f97d3057ed336cde414a",
-    "url": "/pkclassroom/static/js/main.73ce7a88.chunk.js"
+    "revision": "b9bbcf855811f56e5606",
+    "url": "/pkclassroom/static/js/main.3db6ec74.chunk.js"
   },
   {
     "revision": "a5f07b2678b0188c5e00",
@@ -160,32 +160,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pkclassroom/static/media/04-08.f452b06a.jpg"
   },
   {
-    "revision": "bcb32b547c22d3f19aa0ee35c5f578c3",
-    "url": "/pkclassroom/static/media/05-01.bcb32b54.jpg"
+    "revision": "7ef4c8b6d6d490835e5c4729ba4840b4",
+    "url": "/pkclassroom/static/media/05-01.7ef4c8b6.jpg"
   },
   {
-    "revision": "0f48cb12251739f4fc82dff57f3adcdb",
-    "url": "/pkclassroom/static/media/05-02.0f48cb12.jpg"
+    "revision": "3d69f1b70e842c30555d6bf0b38f71f8",
+    "url": "/pkclassroom/static/media/05-02.3d69f1b7.jpg"
   },
   {
-    "revision": "787b46a7f5b7666d192b78875e38bf76",
-    "url": "/pkclassroom/static/media/05-03.787b46a7.jpg"
+    "revision": "163e13ec05849907529d76cd0a5d4388",
+    "url": "/pkclassroom/static/media/05-03.163e13ec.jpg"
   },
   {
-    "revision": "62bc0853908ecc03a3be63ce7aabf948",
-    "url": "/pkclassroom/static/media/05-04.62bc0853.jpg"
+    "revision": "b396f04a3cb7be9a290d6c1e26d6be54",
+    "url": "/pkclassroom/static/media/05-04.b396f04a.jpg"
   },
   {
-    "revision": "7e8219602f64819a6fb96676a27d33ea",
-    "url": "/pkclassroom/static/media/06-01.7e821960.jpg"
+    "revision": "5c47c159bf0e0ca7430f74525e838f30",
+    "url": "/pkclassroom/static/media/06-01.5c47c159.jpg"
   },
   {
-    "revision": "722ff07442dbd1e598f4dd8f605703e3",
-    "url": "/pkclassroom/static/media/06-02.722ff074.jpg"
+    "revision": "040c3d8f4a7a00a9b42d0a6f5e3d878b",
+    "url": "/pkclassroom/static/media/06-02.040c3d8f.jpg"
   },
   {
-    "revision": "41b796143f8e3d4bd275daf620001a1b",
-    "url": "/pkclassroom/static/media/06-03.41b79614.jpg"
+    "revision": "0a08bb07fa93abf95972beabc385f98d",
+    "url": "/pkclassroom/static/media/06-03.0a08bb07.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
